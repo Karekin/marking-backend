@@ -32,8 +32,3 @@
 - 启动manageplatform管理平台web系统
 - 启动dynamic_rule_engine实时flink动态规则引擎
 
-
-## More
-
-购买项目配套视频教程及文档资料等，可在“易学课堂”上方便获得  
-https://v.51doit.cn  

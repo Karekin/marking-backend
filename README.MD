@@ -32,7 +32,8 @@
 - 启动manageplatform管理平台web系统
 - 启动dynamic_rule_engine实时flink动态规则引擎
 
-
+## 埋点方案(参考)
+https://www.yuque.com/chengxingyuan/gvz0mp/ltkeod#hpfo5
 ##  设计目标
 
 本项目也可以用于实时规则风控、实时规则推荐等场景

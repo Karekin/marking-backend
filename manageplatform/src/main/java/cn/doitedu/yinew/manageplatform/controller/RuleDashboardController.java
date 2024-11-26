@@ -15,7 +15,7 @@ import java.util.Set;
 public class RuleDashboardController {
     Jedis jedis = null;
     public RuleDashboardController(){
-        jedis = new Jedis("hdp02", 6379);
+        jedis = new Jedis("192.168.1.10", 6379);
     }
 
     /**
